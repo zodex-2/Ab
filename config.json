@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "bossbayjid14@gmail.com",
-    "password": "your.dad.bayjid",
+    "email"nztayan@gmail.com",
+    "password": "910@12340",
     "2FASecret": "hxhjdjj",
     "i_user": "",
     "proxy": null,
@@ -13,7 +13,7 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "-`ღ´ᵞᴼᵁᴿ 🌷𝐁𝐁'𝐗᯽",
+  "nickNameBot": "EREN",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
@@ -21,7 +21,7 @@
   },
   "adminBot": [
   
-    "61564913640716",
+    "61574046213712",
     "",
     "",
     "",
@@ -30,7 +30,7 @@
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61564913640716",
+    "whiteListIds": ["61574046213712",
 "",
       ""
     ],
