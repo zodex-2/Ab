@@ -1,3 +1,8 @@
+<img src="https://i.imgur.com/7OG6V8h.jpeg" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> </h1>
+<!-- Github README -->
+
+
 **OWNER INFO**
 - Name : MaHi
 - From : Dhaka
@@ -28,6 +33,3 @@ and again go to configcommands.json then again rename into **configcommand.dev.j
 
 
  **ByE**
-<img src="https://i.imgur.com/7OG6V8h.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px">  -𝗕𝗢𝗧 -  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
-<!-- Github README -->
