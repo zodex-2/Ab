@@ -1,5 +1,5 @@
 <img src="https://files.catbox.moe/2qwm2r.mp4" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> </h1>
+<h1 align="center"><video  src="./dashboard/videos/logo-non-bg.mp4" width="22px"> </h1>
 <!-- Github README -->
 
 
