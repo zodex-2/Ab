@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/7OG6V8h.jpeg" alt="banner">
+<img src="https://files.catbox.moe/2qwm2r.mp4" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> </h1>
 <!-- Github README -->
 
