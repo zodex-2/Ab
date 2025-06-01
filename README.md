@@ -1,35 +1,55 @@
-<img src="https://files.catbox.moe/2qwm2r.mp4" alt="banner">
-<h1 align="center"><video  src="./dashboard/videos/logo-non-bg.mp4" width="22px"> </h1>
-<!-- Github README -->
+<h1 align="center">🌟 MaHi's Bot Dashboard 🌟</h1>
 
+<p align="center">
+  <a href="https://files.catbox.moe/2qwm2r.mp4">
+    <img src="https://i.imgur.com/WQySEOb.png" alt="Watch demo video" width="400"/>
+  </a>
+</p>
 
-**OWNER INFO**
-- Name : MaHi
-- From : Dhaka
-- age : 16
+---
 
-**How to run ? on Render**
+## 👤 OWNER INFO
 
-**1st step** go to account.txt and rename file into **account.dev.txt**
-then go to config.json and. again rename file into **config.dev.json**
-and again go to configcommands.json then again rename into **configcommand.dev.json**! 
+- 👑 Name: **MaHi**
+- 🏙️ From: **Dhaka**
+- 🎂 Age: **16**
 
- **2st step** if you use Render for Deployment. to go render.com and sigh up for account! 
+---
 
- **3rd step** tap left icon of render.com dashnord 
- amd choose **web service** then configure with your. github 
- and select your repo and 
- choose Deployment language Replace **Dockerfile** into **node** 
+## ⚙️ HOW TO RUN ON RENDER
 
- and go down and choose your plan and go down and tap **deploy web service**
- and copy your domain link 
+### 🥇 1st Step
+Rename these files:
+- `account.txt` → **`account.dev.txt`**
+- `config.json` → **`config.dev.json`**
+- `configcommands.json` → **`configcommand.dev.json`**
 
- **4th step** go to uptimerobot.com and sighup an account 
+---
 
- then tap create monitor chose https 
+### 🥈 2nd Step
+- Go to [Render.com](https://render.com) and **sign up**
+- Tap the **left sidebar icon** and choose `Web Service`
+- Connect with GitHub and select your bot repo
+- On setup:
+  - Set **Runtime** to `Node`
+  - Replace **Dockerfile** with `Node`
+- Choose plan ➜ scroll down ➜ click **Deploy Web Service**
+- After deploying, **copy your domain link**
 
- and go down and paste your domain link click create monitor 
+---
 
+### 🥉 3rd Step
+Go to [UptimeRobot.com](https://uptimerobot.com) and sign up
 
+- Tap ➕ `Create Monitor`
+- Choose `HTTPS`
+- Paste your domain link
+- Click `Create Monitor`
 
- **ByE**
+---
+
+## 🎉 DONE! YOUR BOT IS NOW LIVE 24/7!
+
+---
+
+> 🤖 **Need help?** Contact MaHi or open an issue in the repo.
