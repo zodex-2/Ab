@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
     "email": "ahmedzayan102@gmail.com",
-    "password": "910@12340",
+    "password": "910@1t340",
     "2FASecret": "hxhjdjj",
     "i_user": "",
     "proxy": null,
@@ -9,24 +9,21 @@
     "intervalGetNewCookie": 1440,
     "notes": "time the system automatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
   },
-  "antiInbox": true,
+  "antiInbox": false,
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "EREN",
+  "nickNameBot": "🎀 ˖ ࣪ʬʬ˒ 🛼 𝖲𝗁𝗂𝗌𝖾𝗂 𓂃🎀 ˖",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-  
-    "61574046213712",
-    "",
-    "",
-    "",
-    "",
-    ""
+    "61576212342334",
+    "61577716215531",
+    "61577983130441",
+    "61578298467556"
   ],
   "whiteListMode": {
     "enable": false,
